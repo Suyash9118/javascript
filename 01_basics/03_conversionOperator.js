@@ -15,3 +15,17 @@ let someNumber =33
 let StringNumber = String(someNumber)
 console.log(someNumber)
 console.log(typeof String(someNumber));
+
+// ***********************operations*******************
+let value=3;
+let negValue = -value
+// console.log(negValue);
+console.log(2+2);
+
+let str1="Suyash";
+let str2=" Mishra";
+console.log(str1+str2)
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");
